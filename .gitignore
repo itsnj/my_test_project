@@ -7,4 +7,12 @@
 /dataSources/
 /dataSources.local.xml
 /.idea
-/.venv
+*.egg-info/
+# .env
+# .venv
+# .work
+# env/
+# venv/
+# ENV/
+# env.bak/
+# venv.bak/
