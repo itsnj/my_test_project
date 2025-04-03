@@ -1,0 +1,22 @@
+Vessel Name,Predicted ETA,Distance / Time,Course / Speed,Current draught,Navigation Status,Position received,IMO / MMSI,Callsign,Flag,Length / Beam,IMO
+
+imo_number,error
+CAP SAN JUAN,-,-,230.3° / 0.0 kn,11.9 m,Moored,1 min ago,9717204 / 538008132,V7OW7,Marshall Islands,332 / 48 m,9717204
+CAP SAN LAZARO,-,-,104.4° / 10.6 kn,11.9 m,Under way,1 min ago,9717216 / 538008134,V7XV9,Marshall Islands,332 / 48 m,9717216
+CAP SAN VINCENT,-,-,258° / 0.0 kn,7.9 m,Moored,6 min ago,9717228 / 538008133,V7XE5,Marshall Islands,332 / 48 m,9717228
+NIZWA LNG,-,-,291° / 16.1 kn,10.1 m,-,16 days ago,9294264 / 371381000,3ECP4,Panama,290 / 50 m,9294264
+IBRI LNG,-,-,262.2° / 8.8 kn,10.1 m,-,2 days ago,9317315 / 355580000,3EFH9,Panama,289 / 49 m,9317315
+ARCTIC VOYAGER,,,311.8° / 9.4 kn,10.4 m,-,29 hours ago,9275335 / 309998000,C6VL2,Bahamas,290 / 48 m,9275335
+ARCTIC DISCOVERER,,,206.6° / 5.0 kn,10.9 m,-,12 hours ago,9276389 / 309481000,C6UV5,Bahamas,289 / 48 m,9276389
+YM TRILLION,-,-,9.3° / 0.0 kn,14.2 m,At anchor,3 min ago,9792709 / 636022027,5LGV4,Liberia,334 / 48 m,9792709
+YM TROPHY,-,-,225.4° / 14.8 kn,13.2 m,Under way,0 min ago,9789996 / 563155200,9V6598,Singapore,333 / 48 m,9789996
+YM THRONE,-,-,219° / 0.1 kn,9.8 m,At anchor,4 min ago,9792694 / 636021693,5LFF8,Liberia,333 / 48 m,9792694
+YM TOGETHER,,,315.1° / 16.1 kn,14.3 m,-,6 days ago,9789984 / 636021244,5LCZ4,Liberia,333 / 48 m,9789984
+YM TRUST,-,-,126.3° / 14.3 kn,12.1 m,-,44 hours ago,9789972 / 563141200,9V6597,Singapore,333 / 48 m,9789972
+YM TRANQUILITY,,,92.8° / 10.7 kn,14.2 m,-,11 days ago,9792682 / 636021578,5LEQ6,Liberia,334 / 48 m,9792682
+YM TUTORIAL,,,2° / 13.9 kn,13.4 m,Under way,1 min ago,9792618 / 636021690,5LFF5,Liberia,333 / 48 m,9792618
+YM TRAVEL,-,-,83.1° / 1.2 kn,10.2 m,Under way,0 min ago,9878503 / 563232300,9V9758,Singapore,333 / 48 m,9878503
+ZIM THAILAND,,,118.7° / 16.2 kn,13.2 m,Under way,8 hours ago,9936513 / 567609000,HSB8290,Thailand,333 / 48 m,9936513
+YM TOPMOST,,,313.4° / 17.3 kn,13.6 m,-,5 days ago,9878515 / 563246400,9VAJ6,Singapore,333 / 48 m,9878515
+ZIM BANGKOK,,,215.7° / 18.8 kn,14.0 m,-,26 hours ago,9936525 / 567614000,HSB8544,Thailand,333 / 48 m,9936525
+imo_number,error

@@ -1,0 +1,387 @@
+{"engine_types": [
+    {
+        "id": 1,
+        "name": "ABC",
+        "parentId": 0
+    },
+    {
+        "id": 2,
+        "name": "AEG",
+        "parentId": 0
+    },
+    {
+        "id": 3,
+        "name": "Akasaka",
+        "parentId": 0
+    },
+    {
+        "id": 4,
+        "name": "Allen",
+        "parentId": 0
+    },
+    {
+        "id": 6,
+        "name": "Anglo-Belgian Corp",
+        "parentId": 0
+    },
+    {
+        "id": 7,
+        "name": "Ansaldo",
+        "parentId": 0
+    },
+    {
+        "id": 13,
+        "name": "B&W",
+        "parentId": 0
+    },
+    {
+        "id": 8,
+        "name": "Bergen",
+        "parentId": 0
+    },
+    {
+        "id": 9,
+        "name": "Black Stone",
+        "parentId": 0
+    },
+    {
+        "id": 78,
+        "name": "Blohm & Voss",
+        "parentId": 0
+    },
+    {
+        "id": 10,
+        "name": "Bolnes",
+        "parentId": 0
+    },
+    {
+        "id": 11,
+        "name": "British Polar",
+        "parentId": 0
+    },
+    {
+        "id": 12,
+        "name": "Brons",
+        "parentId": 0
+    },
+    {
+        "id": 14,
+        "name": "Callesen",
+        "parentId": 0
+    },
+    {
+        "id": 15,
+        "name": "Caterpillar",
+        "parentId": 0
+    },
+    {
+        "id": 16,
+        "name": "Crepelle",
+        "parentId": 0
+    },
+    {
+        "id": 17,
+        "name": "Cummins",
+        "parentId": 0
+    },
+    {
+        "id": 18,
+        "name": "Daihatsu",
+        "parentId": 0
+    },
+    {
+        "id": 19,
+        "name": "Dal Diesel",
+        "parentId": 0
+    },
+    {
+        "id": 20,
+        "name": "De Laval",
+        "parentId": 0
+    },
+    {
+        "id": 21,
+        "name": "Detroit Diesel",
+        "parentId": 0
+    },
+    {
+        "id": 22,
+        "name": "Deutz",
+        "parentId": 0
+    },
+    {
+        "id": 23,
+        "name": "DMR",
+        "parentId": 0
+    },
+    {
+        "id": 24,
+        "name": "Doxford",
+        "parentId": 0
+    },
+    {
+        "id": 25,
+        "name": "Duvant",
+        "parentId": 0
+    },
+    {
+        "id": 26,
+        "name": "EMD",
+        "parentId": 0
+    },
+    {
+        "id": 27,
+        "name": "English Electric",
+        "parentId": 0
+    },
+    {
+        "id": 28,
+        "name": "Enterprise",
+        "parentId": 0
+    },
+    {
+        "id": 29,
+        "name": "Fairbanks-Morse",
+        "parentId": 0
+    },
+    {
+        "id": 30,
+        "name": "Fiat",
+        "parentId": 0
+    },
+    {
+        "id": 31,
+        "name": "Fuji",
+        "parentId": 0
+    },
+    {
+        "id": 32,
+        "name": "GEC",
+        "parentId": 0
+    },
+    {
+        "id": 33,
+        "name": "General Motors",
+        "parentId": 0
+    },
+    {
+        "id": 34,
+        "name": "Goerlitzer",
+        "parentId": 0
+    },
+    {
+        "id": 35,
+        "name": "Gotaverken",
+        "parentId": 0
+    },
+    {
+        "id": 36,
+        "name": "Hanshin",
+        "parentId": 0
+    },
+    {
+        "id": 37,
+        "name": "Hedemora",
+        "parentId": 0
+    },
+    {
+        "id": 77,
+        "name": "Hitachi",
+        "parentId": 0
+    },
+    {
+        "id": 38,
+        "name": "Industrie",
+        "parentId": 0
+    },
+    {
+        "id": 39,
+        "name": "Ito Tekko",
+        "parentId": 0
+    },
+    {
+        "id": 40,
+        "name": "Kawasaki",
+        "parentId": 0
+    },
+    {
+        "id": 41,
+        "name": "Lang",
+        "parentId": 0
+    },
+    {
+        "id": 42,
+        "name": "Lister Blackstone",
+        "parentId": 0
+    },
+    {
+        "id": 43,
+        "name": "MAK",
+        "parentId": 0
+    },
+    {
+        "id": 44,
+        "name": "Makita",
+        "parentId": 0
+    },
+    {
+        "id": 45,
+        "name": "MAN",
+        "parentId": 0
+    },
+    {
+        "id": 46,
+        "name": "MAN-B&W",
+        "parentId": 0
+    },
+    {
+        "id": 48,
+        "name": "Mercedes",
+        "parentId": 0
+    },
+    {
+        "id": 49,
+        "name": "Mirrlees",
+        "parentId": 0
+    },
+    {
+        "id": 50,
+        "name": "Mitsubishi",
+        "parentId": 0
+    },
+    {
+        "id": 47,
+        "name": "Mitsui",
+        "parentId": 0
+    },
+    {
+        "id": 51,
+        "name": "MTU",
+        "parentId": 0
+    },
+    {
+        "id": 52,
+        "name": "MWM",
+        "parentId": 0
+    },
+    {
+        "id": 53,
+        "name": "Newport News",
+        "parentId": 0
+    },
+    {
+        "id": 54,
+        "name": "Niigata",
+        "parentId": 0
+    },
+    {
+        "id": 55,
+        "name": "Nohab Polar",
+        "parentId": 0
+    },
+    {
+        "id": 56,
+        "name": "Normo",
+        "parentId": 0
+    },
+    {
+        "id": 57,
+        "name": "Nuclear",
+        "parentId": 0
+    },
+    {
+        "id": 58,
+        "name": "Pielstick",
+        "parentId": 0
+    },
+    {
+        "id": 59,
+        "name": "Polar",
+        "parentId": 0
+    },
+    {
+        "id": 60,
+        "name": "Rus Diesel",
+        "parentId": 0
+    },
+    {
+        "id": 61,
+        "name": "Ruston",
+        "parentId": 0
+    },
+    {
+        "id": 62,
+        "name": "Schottel",
+        "parentId": 0
+    },
+    {
+        "id": 63,
+        "name": "SKL",
+        "parentId": 0
+    },
+    {
+        "id": 64,
+        "name": "Skoda",
+        "parentId": 0
+    },
+    {
+        "id": 65,
+        "name": "Stal-Laval",
+        "parentId": 0
+    },
+    {
+        "id": 66,
+        "name": "Stork",
+        "parentId": 0
+    },
+    {
+        "id": 67,
+        "name": "Sulzer",
+        "parentId": 0
+    },
+    {
+        "id": 68,
+        "name": "Turbine",
+        "parentId": 0
+    },
+    {
+        "id": 70,
+        "name": "Volund",
+        "parentId": 0
+    },
+    {
+        "id": 69,
+        "name": "Volvo",
+        "parentId": 0
+    },
+    {
+        "id": 71,
+        "name": "Wartsila",
+        "parentId": 0
+    },
+    {
+        "id": 72,
+        "name": "Werkspoor",
+        "parentId": 0
+    },
+    {
+        "id": 73,
+        "name": "Wichmann",
+        "parentId": 0
+    },
+    {
+        "id": 74,
+        "name": "WOLA",
+        "parentId": 0
+    },
+    {
+        "id": 75,
+        "name": "Workstorm",
+        "parentId": 0
+    },
+    {
+        "id": 76,
+        "name": "Yanmar",
+        "parentId": 0
+    }
+]}
